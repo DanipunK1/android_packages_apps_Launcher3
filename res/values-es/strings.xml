@@ -171,4 +171,142 @@
     <string name="search_pref_screen_title" msgid="3258959643336315962">"Busca en tu teléfono"</string>
     <string name="search_pref_screen_title_tablet" msgid="5220319680451343959">"Busca en tu tablet"</string>
     <string name="remote_action_failed" msgid="1383965239183576790">"Se ha producido un error: <xliff:g id="WHAT">%1$s</xliff:g>"</string>
+
+    <!-- QuickSpace: QuickEvent: Device Intro Event -->
+    <string name="quick_event_rom_intro_welcome" translatable="false">Bienvenidos a Punky SupEx!</string>
+    <string name="quick_event_rom_intro_welcome_ext" translatable="false">Por fin QuickEvent en Español!</string>
+    <string-array name="welcome_message_variants" translatable="false">
+        <item>Que wallpaper mas guapo, no?</item>
+        <item>La rom definitiva</item>
+        <item>Envía corazones y pulgares arriba a Dani</item>
+        <item>No es la mejor, pero está tela de guapa</item>
+        <item>Dale aquí pa empezar</item>
+        <item>Disfruta esta build!</item>
+        <item>Explora las cositas chulas</item>
+    </string-array>
+
+    <!-- QuickSpace: QuickEvent: Greetings -->
+    <string name="quickspace_grt_morning">Buenos días.</string>
+    <string name="quickspace_grt_evening">Buenas noches.</string>
+    <string name="quickspace_grt_afternoon">Buenas tardes.</string>
+    <string name="quickspace_grt_night">Buenas noches.</string>
+    <string name="quickspace_grt_midnight">Buenas noches.</string>
+    <string name="quickspace_grt_general">Hola.</string>
+    <string name="quickspace_ext_one">Hoy es</string>
+    <string name="quickspace_ext_two">Es</string>
+    <string name="quickspace_ext_three">Parece que es</string>
+
+    <!-- QuickSpace: QuickEvent: Ambient Play -->
+    <string name="qe_now_playing_unknown_artist">Nosequién</string>
+    <string name="qe_now_playing_ext_one">Reproduciendo</string>
+    <string name="qe_now_playing_ext_two"></string>
+    <string name="qe_now_playing_by">De</string>
+
+    <!-- Quickspace PSA - Custom messages for the glance -->
+    <string-array name="quickspace_psa_morning">
+        <item>Intenta empezar el día tó positivo.</item>
+        <item>Nunca tomes drogas por la mañana.</item>
+        <item>Bonito día para para hacer un simpa.</item>
+        <item>Tómate un buen café.</item>
+        <item>Los polvos mañaneros son los mejores!</item>
+        <item>No bebas alcohol por la mañana.</item>
+        <item>Quién madruga se cansa antes.</item>
+        <item>Siembra solo aquello que quieras cosechar.</item>
+        <item>Ponte un poco de música.</item>
+        <item>Recuerda sonreír a la peña.</item>
+        <item>Ten la cerveza fresquita para luego.</item>
+        <item>Aprovecha bien la mañana.</item>
+        <item>Sobrio eres más productivo.</item>
+        <item>Mucha suerte pa tó el día!</item>
+        <item>Piensa en algo guapo para hacer hoy.</item>
+        <item>Procura rodearte de buena gente.</item>
+        <item>Valora los buenos momentos del día.</item>
+        <item>Buen día para darte un capricho.</item>
+        <item>Recuerda cuidar de tu familia y amigos.</item>
+    </string-array>
+    <string-array name="quickspace_psa_noon">
+        <item>Una birra bien fría antes de almorzar?</item>
+        <item>No tomes drogas a mediodía.</item>
+        <item>Tómate un descanso.</item>
+        <item>Que bien! Hora de comer.</item>
+        <item>Échate una buena siesta después de comer.</item>
+        <item>Los telediarios nunca dicen toda la verdad.</item>
+        <item>Un buen potaje resucita hasta los muertos.</item>
+        <item>Segundo asalto del día.</item>
+        <item>Tranquilo, la cerveza no engorda.</item>
+        <item>Qué hay hoy para comer?</item>
+        <item>La comida es uno de los placeres de la vida, disfrútala.</item>
+    </string-array>
+    <string-array name="quickspace_psa_early_evening">
+        <item>Tómate la tarde con calma.</item>
+        <item>Una siestecita parece buena idea.</item>
+        <item>Mejor no tomar drogas por la tarde.</item>
+        <item>Al día le va quedando poco.</item>
+        <item>Que tal otro cafelito?</item>
+        <item>Aprobecha la tarde en familia o con amigos.</item>
+        <item>Todo es mejor con música.</item>
+        <item>Ve terminado lo que te quede por hacer.</item>
+        <item>Disfruta la tardecita.</item>
+        <item>Recuerda sacar un ratillo para ti.</item>
+        <item>No comas muchas porquerías.</item>
+    </string-array>
+    <string-array name="quickspace_psa_evening">
+        <item>Una birra bien fría antes de cenar?</item>
+        <item>Evita tomar drogas.</item>
+        <item>Recuerda divertirte un poco.</item>
+        <item>Arrímate, alomejor pillas algo.</item>
+        <item>Ya te has duchado hoy?</item>
+        <item>Que bien, hora de cenar!</item>
+        <item>Si bebes, no te cueles.</item>
+        <item>Intenta mojar la croqueta.</item>
+        <item>La noche tiene su punto.</item>
+        <item>Pegate un homenaje esta noche.</item>
+    </string-array>
+    <string-array name="quickspace_psa_midnight">
+        <item>Hora de planchar la oreja.</item>
+        <item>Una meada y a dormir.</item>
+        <item>No trasnoches mucho.</item>
+        <item>Hoy no se duerme?</item>
+        <item>Relájate con un poco de nopor.</item>
+        <item>No te toques mucho.</item>
+        <item>Que sueñes con los angelitos.</item>
+        <item>De madrugada no se hace nada bueno.</item>
+        <item>Siempre que sea posible no tomes drogas.</item>
+        <item>Aprobecha ahora que todos duermen.</item>
+    </string-array>
+    <string-array name="quickspace_psa_random">
+        <item>Pero que máquina que eres!</item>
+        <item>Estás muy guapo.</item>
+        <item>Hoy triunfas seguro.</item>
+        <item>Esta noche mojas.</item>
+        <item>Se te ve genial.</item>
+        <item>Eres un crack!</item>
+        <item>Sigue así, no cambies.</item>
+        <item>Siempre llevas toda la razón.</item>
+        <item>Tú di que sí!</item>
+        <item>No ni na!!!</item>
+        <item>Eres un monstruo de los buenos</item>
+        <item>Te quiero un huevo.</item>
+        <item>Como se nota que eres tela de buena gente.</item>
+        <item>Buen trabajo tío!</item>
+        <item>Lo tienes todo controlado.</item>
+        <item>Que te gusta lo bueno!</item>
+        <item>Quillo vaya estilo mas guapo que tienes.</item>
+        <item>Super mega pro.</item>
+        <item>Nadie lo hace mejor que tú.</item>
+        <item>Que buen rollo desprendes tío!</item>
+        <item>Te mereces todo lo mejor.</item>
+        <item>Tú mandas!</item>
+        <item>Creo que hoy pinchas.</item>
+    </string-array>
+
+    <!-- QuickSpace: QuickEvent: Weather -->
+    <string name="cloudy">Nublado</string>
+    <string name="rainy">Lluvioso</string>
+    <string name="sunny">Despejado</string>
+    <string name="stormy">Tormentoso</string>
+    <string name="snowy">Nevado</string>
+    <string name="windy">Ventoso</string>
+    <string name="misty">Brumoso</string>
+    <string name="today">Hoy</string>
 </resources>
